@@ -1,6 +1,7 @@
 import React, {useEffect, useState} from 'react';
 import axios from 'axios';
 
+
 function App() {
    const [hello, setHello] = useState('')
 
@@ -12,7 +13,7 @@ function App() {
 
     return (
         <div>
-            백엔드에서 가져온 데이터입니다 : {hello}
+            {hello}
         </div>
     );
 }
