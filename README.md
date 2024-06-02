@@ -231,5 +231,5 @@ public class SayhelloController {
 ![image-20240602223601162](https://raw.githubusercontent.com/oiosu/image_repo/master/img/image-20240602223601162.png)
 =======
 
-![image](https://github.com/97Project24/say-hello/assets/99783474/9d60392d-9000-4dc6-ba83-dda742d04b73)
+
 
