@@ -97,7 +97,7 @@ $ npm install http-proxy-middleware --save
 
 ##### (2) `frontend` > `src` > `setProxy.js` 파일 생성하기 
 
-```react
+```javascript
 const { createProxyMiddleware } = require('http-proxy-middleware');
 
 module.exports = function(app) {
@@ -132,7 +132,7 @@ $ npm install axios --save
 
 ##### 2. `App.js` 코드 작성하기 
 
-```react
+```javascript
 import React, {useEffect, useState} from 'react';
 import axios from 'axios';
 
@@ -203,7 +203,7 @@ public class SayhelloController {
 
 > `frontend` > `src` > `package.json`
 
-```react
+```javascript
  "proxy": "http://localhost:8080",
 ```
 
