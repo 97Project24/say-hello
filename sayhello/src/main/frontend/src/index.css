@@ -5,12 +5,22 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
 }
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.background-image {
+    background: url("https://mir-s3-cdn-cf.behance.net/project_modules/1400/539769138315137.621b445bd2774.png") no-repeat center;
+    background-size: cover;
+    width: 100%;
+    height: 888px;
+}
+
 
 
 div {

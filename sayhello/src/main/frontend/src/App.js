@@ -12,8 +12,10 @@ function App() {
     }, []);
 
     return (
-        <div>
-            {hello}
+        <div className="background-image">
+           <div className="content">
+               {hello}
+           </div>
         </div>
     );
 }
